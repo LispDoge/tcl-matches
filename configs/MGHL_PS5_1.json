@@ -1,0 +1,40 @@
+{
+  "Platform": "common-gen5",
+  "Teams": 
+  [
+    { "name": "San Jose", "teamId": 53591 },
+    { "name": "Colorado", "teamId": 53481 },
+    { "name": "Boston", "teamId": 55057 },
+    { "name": "Bufflao", "teamId": 55083 },
+    { "name": "Detroit", "teamId": 55090 },
+    { "name": "Florida", "teamId": 55103 },
+    { "name": "Montreal", "teamId": 55112 },
+    { "name": "Ottawa", "teamId": 55145 },
+    { "name": "Tampa Bay", "teamId": 55150 },
+    { "name": "Toronto", "teamId": 55155 },
+    { "name": "Carolina", "teamId": 55157 },
+    { "name": "Columbus", "teamId": 54208 },
+    { "name": "New Jersey", "teamId": 54196 },
+    { "name": "New York Isla", "teamId": 54190 },
+    { "name": "New York Rang", "teamId": 54186 },
+    { "name": "Philadelphia", "teamId": 54181 },
+    { "name": "Pittsburgh", "teamId": 54172 },
+    { "name": "Washington", "teamId": 54168 },
+    { "name": "Chicago", "teamId": 53469 },
+    { "name": "Dallas", "teamId": 53489 },
+    { "name": "Minnesota", "teamId": 53498 },
+    { "name": "Nashville", "teamId": 53510 },
+    { "name": "St Louis", "teamId": 53523 },
+    { "name": "Winnipeg", "teamId": 53632 },
+    { "name": "Seattle", "teamId": 53537 },
+    { "name": "Anaheim", "teamId": 53542 },
+    { "name": "Arizona", "teamId": 53559 },
+    { "name": "Calgary", "teamId": 53568 },
+    { "name": "Edmonton", "teamId": 53579 },
+    { "name": "los Angeles", "teamId": 53585 },
+    { "name": "Vancouver", "teamId": 53599 },
+    { "name": "Vegas", "teamId": 53609 }
+    
+
+  ]
+}
